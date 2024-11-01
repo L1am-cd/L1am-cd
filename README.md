@@ -14,7 +14,7 @@
 
 → Germany, North Rhine-Westphalia
 
-→ Indie Game Dev! My games are made under the name *[QuartFlower](http://quartzflower.itch.io)*
+→ Indie Game Dev! My games are made under the name *[QuartzFlower](http://quartzflower.itch.io)*
 ### 📚 ⤵︎
 
 → Unity Engine

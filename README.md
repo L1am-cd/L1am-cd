@@ -21,7 +21,7 @@
 
 → Learning Blender
 
-→ Learning C# (Unity); planning to learn both Swift and SwiftUI in the future
+→ Learning C# (Unity) and Python; planning to learn both Swift and SwiftUI in the future
 
 <div align="center">
 

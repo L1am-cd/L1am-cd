@@ -10,7 +10,7 @@
 
 → Liam
 
-→ He/They
+→ They/They
 
 → Germany, North Rhine-Westphalia
 
